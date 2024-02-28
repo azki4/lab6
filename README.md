@@ -1,2 +1,2 @@
 # lab6
-This is for lab 6
+This is for lab 6. Adding more context...
